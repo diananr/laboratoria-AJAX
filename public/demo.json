@@ -1,0 +1,32 @@
+[
+	{
+		"nombre":"Campanita",
+		"celular":"123456789",
+		"correo":"campana@gmail.com"
+	},
+	{
+		"nombre":"Lezmit",
+		"celular":"234567891",
+		"correo":"lezmit@gmail.com"
+	},
+	{
+		"nombre":"Jennifer",
+		"celular":"345678912",
+		"correo":"jenni@gmail.com"
+	},
+	{
+		"nombre":"Diana",
+		"celular":"456789123",
+		"correo":"diananav@gmail.com"
+	},
+	{
+		"nombre":"Karol",
+		"celular":"567891234",
+		"correo":"karol@gmail.com"
+	},
+	{
+		"nombre":"Cilene",
+		"celular":"678912345",
+		"correo":"cilene@gmail.com"
+	}
+]
